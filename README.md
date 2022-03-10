@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NodeJS, Websockets, Angular Etc.**
 
-- 👯 I’m looking to collaborate on **We application Projects**
+- 👯 I’m looking to collaborate on **Web application Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vincecyriac](https://github.com/vincecyriac)
 
