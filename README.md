@@ -33,3 +33,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vincecyriac&show_icons=true&locale=en" alt="vincecyriac" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vincecyriac&" alt="vincecyriac" /></p>
+
+[![@vincecyriac's Holopin board](https://holopin.me/vincecyriac)](https://holopin.io/@vincecyriac)
+
